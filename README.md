@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Yasir Iqbal
+- 👀 I’m interested in CyberSecuirty & WebDev
+- 🌱 I’m currently learning Basics like networks,systems,lunix CLI etc..
+- 💞️ I’m looking to collaborate on any fun project that improves my  knowladge on webdev,python or networks
+- 📫 How to reach me My Discord (@tp.rr) Insta (says.yasir) and Whatsapp (+923275278552)
+- 😄 Pronouns: He/Him
+- ⚡ Hobies: I watch anime , write poetry ,I usaualy do electronics stuff to pass time and kinda good at it :) ,I do techy nerdy stuff when im bored :).
+- ⚡ Fun Fact:I don’t have any CS background, nor do I have an electronics background. I’m the first one in my family to step out of the box and not select the air force like the rest of my family does :)
